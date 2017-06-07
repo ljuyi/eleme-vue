@@ -19,4 +19,6 @@
 8. npm插件中有一个滚动插件，better-scroll，使用方法见代码和作者github
 9. axios获取后台数据，axios.get('[资源路径]').then((response)=>{response.data})，注axios.get/post获取到的值是promise
 
-### 
+### 项目运行
+将项目clone到本地，在根目录下运行
+`node pro.server.js`
